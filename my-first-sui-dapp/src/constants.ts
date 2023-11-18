@@ -1,0 +1,2 @@
+export const DEVNET_COUNTER_PACKAGE_ID = "0xe6cfd6704c26efd3e1401c930b997dbfcbf3ac52a456655acd3cc8c25cae1476";
+export const MAINNET_COUNTER_PACKAGE_ID = "0xTODO";
